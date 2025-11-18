@@ -1,0 +1,101 @@
+Donor_ID,Recipient_ID,Donor_BG,Recipient_BG,ABO_Match,Donor_Size,Recipient_Size,Size_Match,MELD_Score,Urgency,Crossmatch,Raw_Score,Compatibility_Score_0_6,Recommendation,Donor_HLA,Recipient_HLA,Past_Diagnose,Gender,Location,Age,Organ_Visibility,Bilirubin,INR,Creatinine,Risk_Level
+D001,R001,AB,O,False,Medium,Small,False,22.08,Critical,4,1,4,Recommended,"A1,B7,DR3","A1,B7,DR4",Hypertension,M,Pune,56,Visible,7.15,1.75,0.9,High
+D002,R002,B,AB,False,Medium,Small,False,16.44,Moderate,5,5,0,Not Recommended,"A2,B7,DR4","A2,B8,DR3",Hypertension,F,Hyderabad,28,Visible,6.08,1.82,2.24,High
+D003,R003,AB,A,False,Medium,Small,False,12.69,Moderate,5,3,3,Recommended,"A1,B8,DR3","A2,B7,DR4",Kidney Disease,F,Pune,29,Visible,5.18,2.75,0.82,Very High
+D004,R004,A,AB,False,Small,Small,True,19.28,High,3,4,2,Not Recommended,"A3,B7,DR4","A2,B8,DR4",Kidney Disease,F,Chennai,49,Hidden,5.67,1.25,2.4,High
+D005,R005,A,AB,False,Large,Small,False,33.01,Moderate,5,2,3,Recommended,"A3,B8,DR3","A1,B7,DR4",,F,Mumbai,63,Hidden,2.14,1.31,1.53,High
+D006,R006,A,AB,False,Medium,Large,False,32.77,Critical,2,4,3,Not Recommended,"A3,B8,DR3","A3,B7,DR4",Diabetes,M,Mumbai,37,Visible,5.0,2.47,1.79,Very High
+D007,R007,O,A,False,Small,Large,False,8.33,Low,2,3,4,Not Recommended,"A1,B7,DR4","A1,B7,DR3",Hypertension,F,Pune,47,Hidden,3.95,3.06,3.5,High
+D008,R008,A,B,False,Large,Medium,False,32.84,Low,1,4,2,Recommended,"A1,B7,DR3","A1,B8,DR4",Kidney Disease,F,Bangalore,22,Visible,1.81,1.31,0.97,Very High
+D009,R009,B,AB,False,Small,Medium,False,24.66,Moderate,5,3,3,Not Recommended,"A2,B7,DR4","A2,B8,DR4",Hypertension,F,Bangalore,73,Visible,2.97,1.18,3.18,Moderate
+D010,R010,O,B,False,Small,Large,False,10.19,Moderate,1,4,4,Recommended,"A3,B7,DR4","A1,B7,DR3",Heart Disease,F,Jaipur,20,Hidden,5.8,2.62,1.09,Very High
+D011,R011,O,AB,False,Small,Small,True,20.92,Moderate,3,3,4,Recommended,"A2,B7,DR4","A3,B7,DR4",Kidney Disease,F,Kolkata,72,Hidden,8.03,1.94,3.58,High
+D012,R012,B,A,False,Small,Medium,False,23.86,Critical,1,1,0,Recommended,"A1,B7,DR4","A2,B8,DR4",Kidney Disease,F,Kolkata,32,Visible,5.08,1.0,1.36,Moderate
+D013,R013,O,B,False,Large,Small,False,25.17,Critical,3,2,3,Not Recommended,"A2,B8,DR4","A2,B8,DR4",Kidney Disease,F,Ahmedabad,39,Visible,1.11,3.01,1.83,Very High
+D014,R014,AB,O,False,Large,Large,True,13.16,Low,5,1,0,Recommended,"A1,B7,DR3","A1,B8,DR3",Diabetes,M,Jaipur,56,Visible,9.2,1.87,3.81,Very High
+D015,R015,O,B,False,Small,Small,True,34.29,Critical,4,4,1,Not Recommended,"A2,B8,DR3","A2,B8,DR3",Hypertension,M,Lucknow,48,Visible,9.16,2.76,1.33,Moderate
+D016,R016,B,AB,False,Medium,Small,False,19.86,Critical,1,2,5,Not Recommended,"A1,B8,DR4","A2,B8,DR4",Hypertension,M,Bangalore,54,Visible,5.12,2.0,1.56,Very High
+D017,R017,O,AB,False,Medium,Large,False,30.62,Moderate,4,3,0,Recommended,"A2,B7,DR4","A2,B7,DR4",Hypertension,F,Hyderabad,31,Hidden,2.19,1.7,1.27,Moderate
+D018,R018,A,B,False,Small,Medium,False,28.19,Moderate,2,2,6,Recommended,"A1,B8,DR4","A1,B8,DR4",Diabetes,M,Delhi,26,Hidden,4.16,3.02,1.66,Low
+D019,R019,AB,AB,True,Small,Small,True,28.83,Moderate,2,4,0,Not Recommended,"A2,B8,DR4","A1,B8,DR3",Kidney Disease,M,Mumbai,32,Hidden,5.93,2.61,1.39,Very High
+D020,R020,B,AB,False,Medium,Large,False,22.8,Low,1,1,2,Recommended,"A3,B8,DR4","A1,B8,DR4",,M,Pune,59,Hidden,4.86,1.55,2.78,Moderate
+D021,R021,B,A,False,Large,Small,False,23.43,Critical,3,2,4,Recommended,"A2,B8,DR3","A1,B7,DR3",,F,Ahmedabad,63,Visible,2.27,1.02,0.84,High
+D022,R022,B,A,False,Small,Large,False,19.63,Moderate,4,1,4,Recommended,"A3,B7,DR4","A2,B7,DR3",,F,Hyderabad,39,Hidden,1.55,3.48,2.82,High
+D023,R023,O,AB,False,Small,Large,False,6.11,High,2,5,0,Not Recommended,"A3,B7,DR4","A1,B8,DR4",Diabetes,M,Lucknow,30,Hidden,3.39,2.15,3.93,Low
+D024,R024,B,B,True,Small,Medium,False,10.57,Moderate,1,1,0,Recommended,"A1,B7,DR4","A1,B8,DR3",Hypertension,F,Chennai,60,Visible,1.76,1.84,1.85,Moderate
+D025,R025,AB,B,False,Small,Medium,False,17.62,Critical,4,1,2,Recommended,"A3,B7,DR3","A2,B7,DR3",Diabetes,M,Chennai,70,Visible,7.72,2.26,2.77,Low
+D026,R026,A,A,True,Medium,Small,False,15.47,High,3,1,0,Recommended,"A1,B8,DR4","A3,B8,DR4",Kidney Disease,M,Ahmedabad,30,Hidden,1.89,2.29,2.84,High
+D027,R027,A,O,False,Medium,Small,False,34.13,Moderate,2,4,2,Not Recommended,"A2,B8,DR3","A1,B8,DR3",Hypertension,F,Bangalore,37,Visible,9.14,3.33,2.74,Low
+D028,R028,AB,A,False,Medium,Small,False,32.57,Moderate,5,2,6,Recommended,"A3,B7,DR4","A3,B8,DR4",Hypertension,F,Kolkata,38,Hidden,9.63,1.41,1.46,Low
+D029,R029,B,B,True,Small,Small,True,19.4,High,3,5,4,Recommended,"A3,B8,DR3","A1,B8,DR4",Kidney Disease,M,Jaipur,43,Visible,1.86,2.39,2.98,High
+D030,R030,O,B,False,Medium,Large,False,8.49,Moderate,5,3,5,Recommended,"A1,B7,DR4","A2,B8,DR3",Hypertension,M,Bangalore,47,Visible,8.59,1.71,1.55,Very High
+D031,R031,AB,B,False,Large,Small,False,11.56,High,4,1,2,Not Recommended,"A3,B8,DR4","A2,B8,DR4",Diabetes,F,Delhi,42,Visible,9.34,2.72,2.25,Moderate
+D032,R032,O,B,False,Small,Small,True,29.2,Moderate,2,3,1,Recommended,"A1,B8,DR4","A2,B7,DR3",Heart Disease,M,Lucknow,54,Visible,9.65,2.77,4.0,Very High
+D033,R033,AB,AB,True,Medium,Large,False,20.93,Moderate,1,1,1,Not Recommended,"A2,B7,DR4","A2,B7,DR4",Diabetes,M,Kolkata,59,Hidden,7.0,1.57,0.77,Low
+D034,R034,O,A,False,Small,Small,True,13.49,Critical,2,2,6,Not Recommended,"A3,B8,DR3","A3,B8,DR3",Heart Disease,M,Chennai,59,Visible,6.57,3.12,0.77,Low
+D035,R035,AB,O,False,Small,Large,False,18.02,High,1,2,6,Not Recommended,"A1,B7,DR3","A1,B7,DR3",Kidney Disease,F,Jaipur,46,Hidden,6.72,1.36,2.22,High
+D036,R036,A,AB,False,Medium,Medium,True,10.49,Critical,5,4,3,Not Recommended,"A1,B8,DR3","A3,B7,DR3",Kidney Disease,M,Jaipur,43,Visible,9.56,2.75,3.02,Low
+D037,R037,A,B,False,Large,Large,True,17.21,Low,4,5,5,Not Recommended,"A2,B7,DR4","A3,B7,DR4",,M,Pune,19,Visible,0.84,2.97,1.04,High
+D038,R038,A,B,False,Medium,Medium,True,28.4,Critical,2,1,2,Recommended,"A3,B7,DR4","A2,B7,DR4",Hypertension,M,Kolkata,65,Visible,4.4,1.3,1.9,Low
+D039,R039,B,B,True,Small,Small,True,21.9,Critical,3,3,2,Recommended,"A3,B8,DR3","A1,B7,DR4",Hypertension,M,Mumbai,51,Visible,5.26,2.53,1.6,Very High
+D040,R040,A,O,False,Large,Medium,False,25.44,Moderate,3,4,0,Recommended,"A1,B8,DR3","A2,B8,DR3",,M,Lucknow,43,Hidden,2.15,1.36,3.79,Low
+D041,R041,AB,O,False,Small,Large,False,32.68,Critical,1,2,0,Not Recommended,"A2,B8,DR3","A2,B7,DR3",Hypertension,M,Lucknow,36,Visible,3.86,1.27,3.42,Very High
+D042,R042,AB,AB,True,Medium,Small,False,14.91,Moderate,1,5,6,Recommended,"A2,B8,DR4","A3,B7,DR4",,F,Pune,52,Hidden,4.51,3.24,2.25,High
+D043,R043,B,B,True,Small,Large,False,19.04,Critical,4,1,3,Not Recommended,"A3,B8,DR3","A2,B8,DR3",,M,Mumbai,64,Hidden,0.98,1.28,1.68,High
+D044,R044,A,AB,False,Large,Large,True,31.41,Low,2,3,1,Not Recommended,"A2,B7,DR4","A2,B8,DR3",Kidney Disease,F,Lucknow,73,Hidden,7.25,1.01,2.55,Very High
+D045,R045,B,AB,False,Large,Small,False,28.05,Moderate,3,2,2,Recommended,"A1,B7,DR4","A3,B7,DR4",Kidney Disease,F,Hyderabad,53,Visible,7.88,1.76,0.77,Low
+D046,R046,B,B,True,Medium,Small,False,9.44,High,3,3,4,Not Recommended,"A3,B8,DR4","A1,B7,DR4",Hypertension,M,Kolkata,25,Hidden,1.57,2.49,1.87,Low
+D047,R047,A,A,True,Medium,Small,False,15.51,High,5,1,6,Recommended,"A2,B8,DR4","A1,B7,DR4",Kidney Disease,M,Kolkata,34,Visible,5.53,2.98,3.26,High
+D048,R048,O,B,False,Medium,Small,False,9.46,Low,1,4,6,Recommended,"A3,B7,DR3","A2,B8,DR3",Hypertension,F,Pune,28,Hidden,6.87,1.29,3.63,High
+D049,R049,AB,A,False,Small,Small,True,16.17,Moderate,1,2,6,Not Recommended,"A1,B7,DR4","A3,B8,DR4",,F,Chennai,50,Hidden,4.59,0.91,2.31,Low
+D050,R050,B,O,False,Medium,Small,False,34.33,High,1,4,2,Not Recommended,"A1,B8,DR3","A2,B8,DR3",Hypertension,F,Lucknow,35,Visible,6.95,1.45,2.93,Moderate
+D051,R051,O,B,False,Medium,Large,False,17.67,High,2,3,1,Recommended,"A2,B8,DR3","A3,B8,DR4",Heart Disease,F,Mumbai,34,Visible,0.89,1.45,1.95,Very High
+D052,R052,B,B,True,Medium,Medium,True,13.4,High,3,3,0,Not Recommended,"A1,B8,DR4","A3,B8,DR4",Hypertension,M,Mumbai,41,Visible,4.14,2.73,3.0,High
+D053,R053,AB,A,False,Medium,Medium,True,20.49,Critical,2,5,3,Recommended,"A3,B7,DR3","A2,B8,DR4",Diabetes,M,Hyderabad,65,Hidden,1.86,1.75,1.59,High
+D054,R054,AB,B,False,Small,Small,True,15.26,Low,1,4,5,Recommended,"A1,B8,DR3","A3,B8,DR4",Hypertension,F,Chennai,23,Visible,6.7,1.77,1.29,Low
+D055,R055,B,AB,False,Large,Medium,False,16.57,Critical,5,4,4,Recommended,"A3,B7,DR4","A1,B8,DR3",,F,Delhi,29,Hidden,4.63,3.35,3.21,Moderate
+D056,R056,AB,B,False,Medium,Large,False,22.75,High,2,1,6,Not Recommended,"A3,B7,DR4","A3,B8,DR4",,M,Kolkata,18,Hidden,6.4,1.93,3.75,High
+D057,R057,O,A,False,Large,Medium,False,25.62,Low,3,5,1,Recommended,"A2,B7,DR4","A3,B7,DR3",,F,Lucknow,22,Hidden,6.8,2.43,2.06,High
+D058,R058,A,B,False,Medium,Large,False,7.01,High,2,3,2,Recommended,"A3,B8,DR3","A1,B7,DR4",,M,Kolkata,59,Hidden,4.67,3.4,3.59,Low
+D059,R059,A,O,False,Medium,Small,False,10.74,High,3,2,5,Not Recommended,"A3,B7,DR3","A3,B7,DR3",Kidney Disease,M,Ahmedabad,27,Visible,4.33,1.2,3.28,High
+D060,R060,A,A,True,Large,Small,False,5.0,High,4,3,4,Recommended,"A1,B7,DR4","A1,B7,DR4",Kidney Disease,M,Chennai,26,Visible,7.63,2.6,3.51,High
+D061,R061,B,AB,False,Large,Small,False,29.1,High,4,3,5,Recommended,"A1,B7,DR3","A3,B8,DR3",Heart Disease,M,Kolkata,36,Visible,6.42,1.57,0.89,Low
+D062,R062,AB,A,False,Medium,Small,False,17.43,Low,5,4,5,Recommended,"A2,B8,DR3","A3,B8,DR4",Kidney Disease,M,Lucknow,32,Hidden,6.87,2.12,3.78,High
+D063,R063,A,AB,False,Medium,Medium,True,19.48,Critical,4,5,3,Recommended,"A3,B7,DR4","A1,B8,DR4",,M,Jaipur,43,Hidden,2.29,0.91,0.82,Low
+D064,R064,AB,O,False,Small,Medium,False,17.11,Low,1,3,5,Recommended,"A1,B8,DR3","A3,B8,DR4",Heart Disease,F,Kolkata,68,Hidden,8.47,2.28,2.44,Very High
+D065,R065,A,O,False,Small,Small,True,10.3,Moderate,4,5,6,Not Recommended,"A3,B7,DR4","A3,B8,DR3",Kidney Disease,F,Pune,18,Visible,1.94,2.14,2.7,High
+D066,R066,B,AB,False,Small,Large,False,6.83,High,1,2,1,Not Recommended,"A2,B7,DR3","A2,B7,DR3",Diabetes,F,Ahmedabad,27,Hidden,2.9,0.9,1.14,Moderate
+D067,R067,O,B,False,Small,Large,False,19.73,Moderate,2,4,6,Not Recommended,"A3,B7,DR3","A1,B8,DR3",Heart Disease,F,Pune,51,Visible,5.98,1.11,2.86,Moderate
+D068,R068,O,AB,False,Small,Small,True,29.62,Moderate,4,4,4,Not Recommended,"A2,B8,DR3","A2,B8,DR3",Diabetes,F,Mumbai,40,Hidden,2.48,2.18,1.43,Very High
+D069,R069,A,AB,False,Large,Large,True,20.45,High,5,1,5,Not Recommended,"A1,B8,DR4","A3,B7,DR3",Kidney Disease,M,Mumbai,64,Hidden,4.83,3.49,1.48,Moderate
+D070,R070,B,O,False,Small,Large,False,31.58,Moderate,5,1,0,Recommended,"A3,B7,DR3","A1,B8,DR3",Hypertension,M,Lucknow,71,Visible,9.35,2.37,1.09,Very High
+D071,R071,AB,B,False,Large,Small,False,6.5,High,2,2,3,Recommended,"A2,B7,DR4","A1,B7,DR4",Heart Disease,F,Chennai,42,Hidden,1.31,1.99,0.74,Low
+D072,R072,O,AB,False,Medium,Medium,True,26.71,High,5,1,6,Not Recommended,"A2,B7,DR4","A2,B7,DR4",Diabetes,F,Jaipur,39,Visible,7.94,2.53,3.29,Moderate
+D073,R073,B,O,False,Medium,Medium,True,34.58,Low,4,4,3,Not Recommended,"A1,B7,DR3","A3,B7,DR3",Hypertension,M,Mumbai,49,Hidden,6.21,2.03,1.22,Low
+D074,R074,B,B,True,Medium,Large,False,26.79,Moderate,4,4,4,Not Recommended,"A2,B8,DR4","A2,B7,DR3",,M,Chennai,26,Hidden,6.87,3.25,1.81,Moderate
+D075,R075,O,AB,False,Medium,Large,False,18.26,Critical,5,4,0,Recommended,"A1,B8,DR4","A2,B7,DR3",Heart Disease,M,Delhi,71,Visible,9.3,1.12,1.38,Low
+D076,R076,O,B,False,Large,Large,True,28.09,High,4,3,3,Not Recommended,"A2,B7,DR3","A1,B8,DR3",Diabetes,M,Lucknow,70,Visible,7.57,1.5,1.89,Moderate
+D077,R077,B,O,False,Large,Large,True,18.35,Moderate,2,4,3,Recommended,"A2,B8,DR4","A2,B7,DR4",Diabetes,F,Mumbai,59,Visible,9.15,3.37,2.23,Low
+D078,R078,O,A,False,Medium,Small,False,33.8,Low,2,3,0,Recommended,"A3,B7,DR4","A3,B8,DR3",,F,Lucknow,51,Hidden,9.75,1.78,2.48,Very High
+D079,R079,AB,A,False,Medium,Medium,True,21.67,High,5,1,0,Recommended,"A3,B8,DR3","A1,B8,DR4",Heart Disease,F,Jaipur,45,Hidden,1.26,2.22,3.14,Moderate
+D080,R080,O,B,False,Large,Small,False,23.32,High,1,2,2,Not Recommended,"A2,B8,DR3","A1,B7,DR3",,M,Chennai,54,Hidden,7.26,2.39,1.09,High
+D081,R081,A,B,False,Medium,Small,False,31.06,Critical,5,4,3,Not Recommended,"A1,B7,DR4","A2,B8,DR3",Kidney Disease,F,Mumbai,74,Hidden,8.7,3.11,3.23,High
+D082,R082,AB,B,False,Medium,Small,False,17.06,Moderate,2,2,6,Not Recommended,"A1,B7,DR4","A1,B8,DR4",,F,Mumbai,52,Hidden,5.82,3.29,0.88,High
+D083,R083,AB,A,False,Medium,Medium,True,31.69,High,4,4,0,Recommended,"A2,B7,DR4","A2,B7,DR3",Kidney Disease,F,Chennai,58,Visible,2.58,1.88,1.95,High
+D084,R084,B,B,True,Medium,Large,False,21.96,Critical,1,3,0,Recommended,"A3,B7,DR4","A1,B8,DR4",Hypertension,M,Chennai,53,Visible,2.51,2.1,3.12,High
+D085,R085,B,AB,False,Medium,Medium,True,31.19,Moderate,2,3,6,Recommended,"A3,B8,DR3","A2,B7,DR3",Diabetes,F,Pune,39,Visible,6.7,1.37,3.45,Very High
+D086,R086,A,AB,False,Small,Small,True,33.82,Critical,2,2,3,Not Recommended,"A2,B8,DR3","A1,B8,DR4",Diabetes,F,Lucknow,29,Visible,3.55,1.32,3.99,High
+D087,R087,O,AB,False,Medium,Large,False,12.06,High,4,5,0,Recommended,"A2,B8,DR4","A3,B7,DR4",Kidney Disease,M,Delhi,54,Visible,3.81,3.33,3.11,Moderate
+D088,R088,O,B,False,Small,Medium,False,26.08,Moderate,1,2,2,Recommended,"A2,B7,DR3","A3,B7,DR4",Hypertension,F,Ahmedabad,26,Visible,8.23,1.91,1.52,Moderate
+D089,R089,AB,O,False,Large,Large,True,26.74,Moderate,5,1,4,Not Recommended,"A3,B7,DR4","A1,B8,DR4",Kidney Disease,M,Jaipur,70,Visible,2.82,0.94,3.77,High
+D090,R090,A,AB,False,Large,Large,True,27.53,Critical,5,3,6,Not Recommended,"A2,B7,DR3","A1,B8,DR3",Hypertension,M,Bangalore,43,Hidden,9.8,2.5,3.0,High
+D091,R091,B,A,False,Large,Large,True,26.9,High,5,3,1,Recommended,"A1,B7,DR3","A3,B7,DR4",Kidney Disease,M,Lucknow,59,Visible,2.28,3.26,3.9,High
+D092,R092,A,B,False,Large,Large,True,33.02,Moderate,1,3,3,Recommended,"A2,B7,DR3","A2,B7,DR3",Hypertension,M,Kolkata,73,Visible,7.9,3.25,3.78,High
+D093,R093,O,A,False,Small,Small,True,29.39,Critical,1,3,4,Not Recommended,"A3,B8,DR4","A1,B7,DR4",Hypertension,M,Ahmedabad,29,Visible,8.85,2.01,1.7,Low
+D094,R094,O,O,True,Medium,Small,False,24.04,Moderate,3,3,6,Recommended,"A3,B7,DR3","A1,B7,DR4",Heart Disease,M,Jaipur,75,Visible,9.52,1.17,3.94,Low
+D095,R095,A,O,False,Medium,Large,False,27.94,High,1,3,0,Recommended,"A2,B7,DR4","A1,B8,DR4",Heart Disease,M,Ahmedabad,36,Visible,6.01,1.35,2.0,Moderate
+D096,R096,AB,A,False,Small,Large,False,19.98,High,1,1,4,Not Recommended,"A3,B8,DR4","A1,B7,DR4",,M,Lucknow,58,Hidden,4.09,3.18,3.24,High
+D097,R097,O,AB,False,Small,Large,False,22.33,High,2,3,1,Not Recommended,"A2,B7,DR3","A1,B8,DR3",Diabetes,M,Ahmedabad,72,Visible,7.26,3.09,2.67,Moderate
+D098,R098,O,AB,False,Small,Large,False,30.15,Low,1,1,6,Recommended,"A1,B8,DR3","A1,B8,DR4",Hypertension,M,Pune,54,Visible,8.12,1.7,2.53,Low
+D099,R099,A,O,False,Large,Large,True,33.94,High,5,2,6,Recommended,"A1,B8,DR4","A3,B7,DR4",Heart Disease,F,Bangalore,51,Hidden,5.43,1.25,3.96,Low
+D100,R100,O,O,True,Large,Large,True,27.91,Moderate,2,3,0,Not Recommended,"A2,B8,DR4","A3,B8,DR3",Hypertension,M,Lucknow,67,Visible,9.8,2.93,1.45,Low

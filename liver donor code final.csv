@@ -1,0 +1,101 @@
+Donor_ID,Recipient_ID,Donor_BG,Recipient_BG,ABO_Match,Donor_Size,Recipient_Size,Size_Match,MELD_Score,Urgency,Crossmatch,Raw_Score,Compatibility_Score_0_6,Recommendation
+D001,R001,O,O,TRUE,Large,Medium,FALSE,21,Moderate,Negative,4,4,Recommended
+D002,R002,O,O,TRUE,Large,Medium,FALSE,8,Low,Negative,4,4,Recommended
+D003,R003,A,A,TRUE,Large,Large,TRUE,7,Low,Negative,5,5,Recommended
+D004,R004,AB,A,FALSE,Medium,Large,FALSE,23,Moderate,Negative,2,2,Not Recommended
+D005,R005,O,A,FALSE,Large,Medium,FALSE,27,Moderate,Negative,2,2,Not Recommended
+D006,R006,A,B,FALSE,Small,Small,TRUE,30,Moderate,Negative,3,3,Recommended
+D007,R007,B,B,TRUE,Small,Large,FALSE,35,High,Negative,5,5,Recommended
+D008,R008,AB,O,FALSE,Large,Medium,FALSE,29,Moderate,Negative,2,2,Not Recommended
+D009,R009,O,O,TRUE,Large,Small,FALSE,24,Moderate,Positive,0,0,Not Recommended
+D010,R010,A,O,FALSE,Medium,Medium,TRUE,35,High,Negative,4,4,Recommended
+D011,R011,B,A,FALSE,Medium,Medium,TRUE,19,Moderate,Negative,3,3,Recommended
+D012,R012,O,A,FALSE,Large,Large,TRUE,21,Moderate,Negative,3,3,Recommended
+D013,R013,AB,B,FALSE,Large,Large,TRUE,20,Moderate,Negative,3,3,Recommended
+D014,R014,O,A,FALSE,Small,Medium,FALSE,31,High,Negative,3,3,Recommended
+D015,R015,A,B,FALSE,Small,Large,FALSE,37,High,Negative,3,3,Recommended
+D016,R016,AB,A,FALSE,Medium,Small,FALSE,21,Moderate,Negative,2,2,Not Recommended
+D017,R017,B,AB,FALSE,Large,Medium,FALSE,29,Moderate,Negative,2,2,Not Recommended
+D018,R018,A,AB,FALSE,Small,Small,TRUE,13,Low,Negative,3,3,Recommended
+D019,R019,A,AB,FALSE,Large,Small,FALSE,30,Moderate,Negative,2,2,Not Recommended
+D020,R020,AB,B,FALSE,Large,Small,FALSE,13,Low,Negative,2,2,Not Recommended
+D021,R021,B,B,TRUE,Small,Medium,FALSE,33,High,Negative,5,5,Recommended
+D022,R022,O,B,FALSE,Large,Small,FALSE,38,High,Positive,–1,0,Not Recommended
+D023,R023,B,A,FALSE,Small,Medium,FALSE,16,Moderate,Negative,2,2,Not Recommended
+D024,R024,O,B,FALSE,Medium,Small,FALSE,13,Low,Positive,–2,0,Not Recommended
+D025,R025,B,A,FALSE,Small,Small,TRUE,11,Low,Negative,3,3,Recommended
+D026,R026,AB,O,FALSE,Large,Small,FALSE,14,Low,Negative,2,2,Not Recommended
+D027,R027,A,B,FALSE,Large,Large,TRUE,33,High,Positive,0,0,Not Recommended
+D028,R028,A,B,FALSE,Medium,Large,FALSE,29,Moderate,Negative,2,2,Not Recommended
+D029,R029,AB,O,FALSE,Small,Small,TRUE,10,Low,Negative,3,3,Recommended
+D030,R030,A,A,TRUE,Small,Small,TRUE,9,Low,Negative,5,5,Recommended
+D031,R031,O,B,FALSE,Small,Large,FALSE,21,Moderate,Negative,2,2,Not Recommended
+D032,R032,AB,A,FALSE,Large,Small,FALSE,36,High,Negative,3,3,Recommended
+D033,R033,AB,AB,TRUE,Small,Small,TRUE,12,Low,Negative,5,5,Recommended
+D034,R034,B,AB,FALSE,Medium,Medium,TRUE,9,Low,Negative,3,3,Recommended
+D035,R035,O,O,TRUE,Medium,Large,FALSE,27,Moderate,Negative,4,4,Recommended
+D036,R036,O,A,FALSE,Small,Small,TRUE,40,High,Negative,4,4,Recommended
+D037,R037,AB,A,FALSE,Medium,Medium,TRUE,21,Moderate,Positive,–1,0,Not Recommended
+D038,R038,O,AB,FALSE,Large,Small,FALSE,9,Low,Negative,2,2,Not Recommended
+D039,R039,O,O,TRUE,Small,Small,TRUE,32,High,Negative,6,6,Recommended
+D040,R040,A,AB,FALSE,Small,Small,TRUE,30,Moderate,Negative,3,3,Recommended
+D041,R041,O,A,FALSE,Medium,Large,FALSE,18Moderate,Negative,3,3,3,Not Recommended
+D042,R042,A,A,TRUE,Large,Medium,FALSE,22High,Positive,5,5,5,Recommended
+D043,R043,B,AB,TRUE,Small,Small,TRUE,15Low,Negative,2,2,2,Recommended
+D044,R044,AB,B,FALSE,Medium,Large,FALSE,20High,Positive,4,4,4,Not Recommended
+D045,R045,O,O,TRUE,Large,Large,TRUE,10Low,Negative,3,3,3,Recommended
+D046,R046,A,B,FALSE,Medium,Medium,TRUE,17Moderate,Positive,3,3,3,Not Recommended
+D047,R047,B,B,TRUE,Small,Medium,FALSE,24High,Positive,5,5,5,Recommended
+D048,R048,AB,AB,TRUE,Large,Large,TRUE,13Low,Negative,2,2,2,Recommended
+D049,R049,O,AB,FALSE,Medium,Medium,TRUE,19Moderate,Negative,4,4,4,Not Recommended
+D050,R050,A,O,FALSE,Small,Large,FALSE,21High,Positive,5,5,5,Not Recommended
+D051,R051,B,A,FALSE,Medium,Medium,TRUE,16Moderate,Negative,3,3,3,Not Recommended
+D052,R052,AB,O,FALSE,Large,Small,FALSE,12Low,Negative,2,2,2,Not Recommended
+D053,R053,O,B,FALSE,Small,Medium,FALSE,18Moderate,Positive,4,4,4,Not Recommended
+D054,R054,A,AB,TRUE,Medium,Medium,TRUE,20High,Positive,5,5,5,Recommended
+D055,R055,B,O,FALSE,Large,Large,TRUE,14Low,Negative,3,3,3,Not Recommended
+D056,R056,AB,A,FALSE,Medium,Small,FALSE,22High,Positive,5,5,5,Not Recommended
+D057,R057,O,O,TRUE,Small,Medium,FALSE,11Low,Negative,2,2,2,Recommended
+D058,R058,A,B,FALSE,Medium,Large,FALSE,19Moderate,Positive,4,4,4,Not Recommended
+D059,R059,B,AB,TRUE,Large,Medium,FALSE,23High,Positive,5,5,5,Recommended
+D060,R060,AB,AB,TRUE,Medium,Medium,TRUE,15Low,Negative,3,3,3,Recommended
+D061,R061,O,A,FALSE,Medium,Large,FALSE,18Moderate,Negative,3,3,3,Not Recommended
+D062,R062,A,A,TRUE,Large,Medium,FALSE,22High,Positive,5,5,5,Recommended
+D063,R063,B,B,TRUE,Small,Medium,FALSE,16Moderate,Negative,3,3,3,Recommended
+D064,R064,AB,AB,TRUE,Medium,Medium,TRUE,13Low,Negative,2,2,2,Recommended
+D065,R065,O,O,TRUE,Large,Large,TRUE,10Low,Negative,3,3,3,Recommended
+D066,R066,A,B,FALSE,Medium,Medium,TRUE,17Moderate,Positive,3,3,3,Not Recommended
+D067,R067,B,AB,TRUE,Small,Medium,FALSE,24High,Positive,5,5,5,Recommended
+D068,R068,AB,A,FALSE,Medium,Small,FALSE,20High,Positive,4,4,4,Not Recommended
+D069,R069,O,B,FALSE,Small,Medium,FALSE,19Moderate,Negative,4,4,4,Not Recommended
+D070,R070,A,AB,TRUE,Large,Medium,FALSE,21High,Positive,5,5,5,Recommended
+D071,R071,B,O,FALSE,Medium,Large,FALSE,14Low,Negative,3,3,3,Not Recommended
+D072,R072,AB,AB,TRUE,Medium,Medium,TRUE,15Low,Negative,3,3,3,Recommended
+D073,R073,O,A,FALSE,Medium,Large,FALSE,18Moderate,Positive,4,4,4,Not Recommended
+D074,R074,A,A,TRUE,Large,Medium,FALSE,22High,Positive,5,5,5,Recommended
+D075,R075,B,B,TRUE,Small,Small,TRUE,15Low,Negative,2,2,2,Recommended
+D076,R076,AB,B,FALSE,Medium,Large,FALSE,20High,Positive,4,4,4,Not Recommended
+D077,R077,O,O,TRUE,Large,Large,TRUE,10Low,Negative,3,3,3,Recommended
+D078,R078,A,B,FALSE,Medium,Medium,TRUE,17Moderate,Positive,3,3,3,Not Recommended
+D079,R079,B,AB,TRUE,Large,Medium,FALSE,23High,Positive,5,5,5,Recommended
+D080,R080,AB,AB,TRUE,Medium,Medium,TRUE,15Low,Negative,3,3,3,Recommended
+D081,R081,O,A,FALSE,Medium,Large,FALSE,18Moderate,Negative,3,3,3,Not Recommended
+D082,R082,A,A,TRUE,Large,Medium,FALSE,22High,Positive,5,5,5,Recommended
+D083,R083,B,B,TRUE,Small,Medium,FALSE,16Moderate,Negative,3,3,3,Recommended
+D084,R084,AB,AB,TRUE,Medium,Medium,TRUE,13Low,Negative,2,2,2,Recommended
+D085,R085,O,O,TRUE,Large,Large,TRUE,10Low,Negative,3,3,3,Recommended
+D086,R086,A,B,FALSE,Medium,Medium,TRUE,17Moderate,Positive,3,3,3,Not Recommended
+D087,R087,B,AB,TRUE,Small,Medium,FALSE,24High,Positive,5,5,5,Recommended
+D088,R088,AB,A,FALSE,Medium,Small,FALSE,20High,Positive,4,4,4,Not Recommended
+D089,R089,O,B,FALSE,Small,Medium,FALSE,19Moderate,Negative,4,4,4,Not Recommended
+D090,R090,A,AB,TRUE,Large,Medium,FALSE,21High,Positive,5,5,5,Recommended
+D091,R091,B,O,FALSE,Medium,Large,FALSE,14Low,Negative,3,3,3,Not Recommended
+D092,R092,AB,AB,TRUE,Medium,Medium,TRUE,15Low,Negative,3,3,3,Recommended
+D093,R093,O,A,FALSE,Medium,Large,FALSE,18Moderate,Positive,4,4,4,Not Recommended
+D094,R094,A,A,TRUE,Large,Medium,FALSE,22High,Positive,5,5,5,Recommended
+D095,R095,B,B,TRUE,Small,Small,TRUE,15Low,Negative,2,2,2,Recommended
+D096,R096,AB,B,FALSE,Medium,Large,FALSE,20High,Positive,4,4,4,Not Recommended
+D097,R097,O,O,TRUE,Large,Large,TRUE,10Low,Negative,3,3,3,Recommended
+D098,R098,A,B,FALSE,Medium,Medium,TRUE,17Moderate,Positive,3,3,3,Not Recommended
+D099,R099,B,AB,TRUE,Large,Medium,FALSE,23High,Positive,5,5,5,Recommended
+D100,R100,AB,AB,TRUE,Medium,Medium,TRUE,15Low,Negative,3,3,3,Recommended
